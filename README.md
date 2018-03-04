@@ -1,2 +1,2 @@
 # NAMI
-Repositář je vytvořen za účelem práce ve výuce VIKBA07 - Nástroje a možnosti internetu na FF MUNI.
+Repositář je vytvořen za účelem studia předmětu VIKBA07 - Nástroje a možnosti internetu na FF MUNI.
